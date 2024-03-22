@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "domotica-carpiogaibor": {
+      "hosting": {
+        "app": [
+          "domotica-carpiogaibor"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "domotica-carpiogaibor"
+  }
+}
